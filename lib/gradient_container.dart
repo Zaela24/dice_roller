@@ -1,4 +1,3 @@
-import 'package:dice_roller/custom_text.dart';
 import 'package:dice_roller/dice_roller.dart';
 import 'package:flutter/material.dart';
 
